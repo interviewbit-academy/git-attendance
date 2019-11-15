@@ -1,2 +1,2 @@
 # git-attendance
-Yash Aggrawal
+Yash Aggarwal
