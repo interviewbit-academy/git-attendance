@@ -1,3 +1,3 @@
 # git-attendance
 Nikit Jain
-Raj Kumar
+Raj Kumar\nVikash Singh
