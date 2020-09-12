@@ -5,4 +5,3 @@ Raj Kumar
 Subham Mallick
 Abhishek gupta
 Rishabh Verma
-Medha Pandey
